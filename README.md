@@ -162,7 +162,6 @@ pytest tests/unit/test_preprocessing.py
 - YOLOv8 (Recommended)
 - YOLOv5
 - Faster R-CNN
-- SSD
 
 ### OCR Engines
 - EasyOCR (Recommended)
