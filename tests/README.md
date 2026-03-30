@@ -25,4 +25,3 @@ pytest --cov=src/ocr_plate_detector tests/
 
 ## Test Coverage
 
-Aim for at least 80% code coverage across all modules.
