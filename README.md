@@ -8,7 +8,6 @@ An intelligent system for detecting vehicle license plates and extracting text u
 - **OCR Text Extraction**: Extract text from detected license plates with high accuracy
 - **Multiple Model Support**: Support for YOLO, Faster R-CNN, Tesseract, EasyOCR, and more
 - **Easy Configuration**: YAML-based configuration for models, training, and inference
-- **Comprehensive Pipeline**: End-to-end pipeline from image preprocessing to text extraction
 
 ## 📁 Project Structure
 
