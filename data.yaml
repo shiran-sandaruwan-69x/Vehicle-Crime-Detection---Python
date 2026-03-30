@@ -1,0 +1,6 @@
+names:
+- license-plate
+nc: 1
+test: data/test/
+train: data/train/
+val: data/validation/
