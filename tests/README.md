@@ -23,5 +23,3 @@ pytest tests/integration/
 pytest --cov=src/ocr_plate_detector tests/
 ```
 
-## Test Coverage
-
